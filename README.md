@@ -63,7 +63,7 @@ Your data may be processed in the United States or other countries where our ser
 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy periodically. Changes will be effective upon posting the updated policy at:
-https://github.com/yourusername/Grid-Quest-Privacy-Policy.
+https://github.com/the47guy/Grid-Quest-Privacy-Policy.
 
 Continued use of the app signifies acceptance of changes.
 
